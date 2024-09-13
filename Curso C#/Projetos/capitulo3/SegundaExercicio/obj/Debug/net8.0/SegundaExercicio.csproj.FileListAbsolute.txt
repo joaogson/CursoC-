@@ -1,0 +1,14 @@
+c:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\bin\Debug\net8.0\SegundaExercicio.exe
+C:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\bin\Debug\net8.0\SegundaExercicio.deps.json
+C:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\bin\Debug\net8.0\SegundaExercicio.runtimeconfig.json
+c:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\bin\Debug\net8.0\SegundaExercicio.dll
+c:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\bin\Debug\net8.0\SegundaExercicio.pdb
+c:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\obj\Debug\net8.0\SegundaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\obj\Debug\net8.0\SegundaExercicio.AssemblyInfoInputs.cache
+c:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\obj\Debug\net8.0\SegundaExercicio.AssemblyInfo.cs
+c:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\obj\Debug\net8.0\SegundaExercicio.csproj.CoreCompileInputs.cache
+c:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\obj\Debug\net8.0\SegundaExercicio.dll
+c:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\obj\Debug\net8.0\refint\SegundaExercicio.dll
+c:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\obj\Debug\net8.0\SegundaExercicio.pdb
+C:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\obj\Debug\net8.0\SegundaExercicio.genruntimeconfig.cache
+C:\Users\estagiario\Desktop\Matérias\Curso C#\Projetos\SegundaExercicio\obj\Debug\net8.0\ref\SegundaExercicio.dll

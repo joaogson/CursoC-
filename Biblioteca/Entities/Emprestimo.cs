@@ -29,4 +29,11 @@ class Emprestimo
 	{
 		return MultaAtraso * dias;
 	}
+
+	public override string ToString()
+	{
+		return usuario.Name
+			+ ", " + DataEmprestimo.ToShortDateString()
+			+ ", " + livro.NomeLivro;
+	}
 }

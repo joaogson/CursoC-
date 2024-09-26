@@ -6,4 +6,11 @@ using Biblioteca.Entities;
 
 Console.WriteLine("");
 
-Livro livro= new Livro("Dom Quixote", "Pessoa", "123GD", "15/06/1906");
+bibliioteca.AdicionaLivro("Dom Quixote", "Pessoa", "123GD", "15/06/1906");
+bibliioteca.AdicionaLivro("teste", "pessoa", "1234", "15/12/2004");
+
+Aluno aluno = new Aluno(1, "Joao", 1, "1b", 3);
+bibliioteca.GetListLivros();
+bibliioteca.Emprestimo(aluno, "26/09/2024", bibliioteca.livros.FirstOrDefault(x => x.NomeLivro == "Dom Quixote"));
+
+

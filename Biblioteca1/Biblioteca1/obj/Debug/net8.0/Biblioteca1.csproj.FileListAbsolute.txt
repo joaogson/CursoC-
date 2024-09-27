@@ -1,0 +1,14 @@
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\bin\Debug\net8.0\Biblioteca1.exe
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\bin\Debug\net8.0\Biblioteca1.deps.json
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\bin\Debug\net8.0\Biblioteca1.runtimeconfig.json
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\bin\Debug\net8.0\Biblioteca1.dll
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\bin\Debug\net8.0\Biblioteca1.pdb
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\obj\Debug\net8.0\Biblioteca1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\obj\Debug\net8.0\Biblioteca1.AssemblyInfoInputs.cache
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\obj\Debug\net8.0\Biblioteca1.AssemblyInfo.cs
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\obj\Debug\net8.0\Biblioteca1.csproj.CoreCompileInputs.cache
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\obj\Debug\net8.0\Biblioteca1.dll
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\obj\Debug\net8.0\refint\Biblioteca1.dll
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\obj\Debug\net8.0\Biblioteca1.pdb
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\obj\Debug\net8.0\Biblioteca1.genruntimeconfig.cache
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\Biblioteca1\Biblioteca1\obj\Debug\net8.0\ref\Biblioteca1.dll

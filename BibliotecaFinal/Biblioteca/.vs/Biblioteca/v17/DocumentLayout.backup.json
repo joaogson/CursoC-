@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estagiario\\Documents\\GitHub\\CursoC-\\BibliotecaFinal\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FF97E-D04E-4465-A045-03E754E1EB33}|Biblioteca.csproj|c:\\users\\estagiario\\documents\\github\\cursoc-\\bibliotecafinal\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6FF97E-D04E-4465-A045-03E754E1EB33}|Biblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FF97E-D04E-4465-A045-03E754E1EB33}|Biblioteca.csproj|c:\\users\\estagiario\\documents\\github\\cursoc-\\bibliotecafinal\\biblioteca\\entities\\bilioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6FF97E-D04E-4465-A045-03E754E1EB33}|Biblioteca.csproj|solutionrelative:entities\\bilioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6FF97E-D04E-4465-A045-03E754E1EB33}|Biblioteca.csproj|c:\\users\\estagiario\\documents\\github\\cursoc-\\bibliotecafinal\\biblioteca\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6FF97E-D04E-4465-A045-03E754E1EB33}|Biblioteca.csproj|solutionrelative:entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\estagiario\\Documents\\GitHub\\CursoC-\\BibliotecaFinal\\Biblioteca\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\estagiario\\Documents\\GitHub\\CursoC-\\BibliotecaFinal\\Biblioteca\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Entities\\Usuario.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:23:06.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bilioteca.cs",
+              "DocumentMoniker": "C:\\Users\\estagiario\\Documents\\GitHub\\CursoC-\\BibliotecaFinal\\Biblioteca\\Entities\\Bilioteca.cs",
+              "RelativeDocumentMoniker": "Entities\\Bilioteca.cs",
+              "ToolTip": "C:\\Users\\estagiario\\Documents\\GitHub\\CursoC-\\BibliotecaFinal\\Biblioteca\\Entities\\Bilioteca.cs",
+              "RelativeToolTip": "Entities\\Bilioteca.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wE0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:11:54.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\estagiario\\Documents\\GitHub\\CursoC-\\BibliotecaFinal\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\estagiario\\Documents\\GitHub\\CursoC-\\BibliotecaFinal\\Biblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAkwNEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:11:22.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

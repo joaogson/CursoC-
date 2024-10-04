@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estagiario\\Desktop\\Mat\u00E9rias\\CursoC#\\projects\\ProcessoDePagamentoParcelas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A35E9-973C-4647-B547-0064271A647A}|ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas.csproj|c:\\users\\estagiario\\desktop\\mat\u00E9rias\\cursoc#\\projects\\processodepagamentoparcelas\\processodepagamentoparcelas\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A35E9-973C-4647-B547-0064271A647A}|ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas.csproj|solutionrelative:processodepagamentoparcelas\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A35E9-973C-4647-B547-0064271A647A}|ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas.csproj|c:\\users\\estagiario\\desktop\\mat\u00E9rias\\cursoc#\\projects\\processodepagamentoparcelas\\processodepagamentoparcelas\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A35E9-973C-4647-B547-0064271A647A}|ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas.csproj|solutionrelative:processodepagamentoparcelas\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A35E9-973C-4647-B547-0064271A647A}|ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas.csproj|c:\\users\\estagiario\\desktop\\mat\u00E9rias\\cursoc#\\projects\\processodepagamentoparcelas\\processodepagamentoparcelas\\services\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A35E9-973C-4647-B547-0064271A647A}|ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas.csproj|solutionrelative:processodepagamentoparcelas\\services\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A35E9-973C-4647-B547-0064271A647A}|ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas.csproj|c:\\users\\estagiario\\desktop\\mat\u00E9rias\\cursoc#\\projects\\processodepagamentoparcelas\\processodepagamentoparcelas\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A35E9-973C-4647-B547-0064271A647A}|ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas.csproj|solutionrelative:processodepagamentoparcelas\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A35E9-973C-4647-B547-0064271A647A}|ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas.csproj|c:\\users\\estagiario\\desktop\\mat\u00E9rias\\cursoc#\\projects\\processodepagamentoparcelas\\processodepagamentoparcelas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A35E9-973C-4647-B547-0064271A647A}|ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas.csproj|solutionrelative:processodepagamentoparcelas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaypalService.cs",
+              "DocumentMoniker": "C:\\Users\\estagiario\\Desktop\\Mat\u00E9rias\\CursoC#\\projects\\ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas\\Services\\PaypalService.cs",
+              "RelativeDocumentMoniker": "ProcessoDePagamentoParcelas\\Services\\PaypalService.cs",
+              "ToolTip": "C:\\Users\\estagiario\\Desktop\\Mat\u00E9rias\\CursoC#\\projects\\ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas\\Services\\PaypalService.cs",
+              "RelativeToolTip": "ProcessoDePagamentoParcelas\\Services\\PaypalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:10:31.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\estagiario\\Desktop\\Mat\u00E9rias\\CursoC#\\projects\\ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas\\Entities\\Contract.cs",
+              "RelativeDocumentMoniker": "ProcessoDePagamentoParcelas\\Entities\\Contract.cs",
+              "ToolTip": "C:\\Users\\estagiario\\Desktop\\Mat\u00E9rias\\CursoC#\\projects\\ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas\\Entities\\Contract.cs",
+              "RelativeToolTip": "ProcessoDePagamentoParcelas\\Entities\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:06:18.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Users\\estagiario\\Desktop\\Mat\u00E9rias\\CursoC#\\projects\\ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas\\Services\\IPayment.cs",
+              "RelativeDocumentMoniker": "ProcessoDePagamentoParcelas\\Services\\IPayment.cs",
+              "ToolTip": "C:\\Users\\estagiario\\Desktop\\Mat\u00E9rias\\CursoC#\\projects\\ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas\\Services\\IPayment.cs",
+              "RelativeToolTip": "ProcessoDePagamentoParcelas\\Services\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:56:52.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\estagiario\\Desktop\\Mat\u00E9rias\\CursoC#\\projects\\ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "ProcessoDePagamentoParcelas\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\estagiario\\Desktop\\Mat\u00E9rias\\CursoC#\\projects\\ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas\\Services\\PaymentService.cs",
+              "RelativeToolTip": "ProcessoDePagamentoParcelas\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:47:33.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\estagiario\\Desktop\\Mat\u00E9rias\\CursoC#\\projects\\ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas\\Program.cs",
+              "RelativeDocumentMoniker": "ProcessoDePagamentoParcelas\\Program.cs",
+              "ToolTip": "C:\\Users\\estagiario\\Desktop\\Mat\u00E9rias\\CursoC#\\projects\\ProcessoDePagamentoParcelas\\ProcessoDePagamentoParcelas\\Program.cs",
+              "RelativeToolTip": "ProcessoDePagamentoParcelas\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:25:38.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

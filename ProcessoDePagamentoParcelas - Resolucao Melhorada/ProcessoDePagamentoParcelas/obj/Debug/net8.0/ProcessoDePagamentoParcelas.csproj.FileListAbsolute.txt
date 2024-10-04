@@ -1,0 +1,28 @@
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\bin\Debug\net8.0\ProcessoDePagamentoParcelas.exe
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\bin\Debug\net8.0\ProcessoDePagamentoParcelas.deps.json
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\bin\Debug\net8.0\ProcessoDePagamentoParcelas.runtimeconfig.json
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\bin\Debug\net8.0\ProcessoDePagamentoParcelas.dll
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\bin\Debug\net8.0\ProcessoDePagamentoParcelas.pdb
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.AssemblyInfoInputs.cache
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.AssemblyInfo.cs
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.csproj.CoreCompileInputs.cache
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.dll
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\obj\Debug\net8.0\refint\ProcessoDePagamentoParcelas.dll
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.pdb
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.genruntimeconfig.cache
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ref\ProcessoDePagamentoParcelas.dll
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\bin\Debug\net8.0\ProcessoDePagamentoParcelas.exe
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\bin\Debug\net8.0\ProcessoDePagamentoParcelas.deps.json
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\bin\Debug\net8.0\ProcessoDePagamentoParcelas.runtimeconfig.json
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\bin\Debug\net8.0\ProcessoDePagamentoParcelas.dll
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\bin\Debug\net8.0\ProcessoDePagamentoParcelas.pdb
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.AssemblyInfoInputs.cache
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.AssemblyInfo.cs
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.csproj.CoreCompileInputs.cache
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.dll
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\obj\Debug\net8.0\refint\ProcessoDePagamentoParcelas.dll
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.pdb
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ProcessoDePagamentoParcelas.genruntimeconfig.cache
+C:\Users\estagiario\Desktop\Matérias\CursoC#\projects\ProcessoDePagamentoParcelas - Resolucao Melhorada\ProcessoDePagamentoParcelas\obj\Debug\net8.0\ref\ProcessoDePagamentoParcelas.dll
